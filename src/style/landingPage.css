@@ -1,0 +1,76 @@
+.myBG {
+    height: 100vh;
+    background: url(/src/assets/images/photo-bg.png);
+    background-size: cover;
+}
+
+.intro {
+    height: 700px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.navbar_menu {
+    font-size: 0.8rem;
+}
+
+.title {
+    font-size: 1.5rem;
+    line-height: 1.2;
+}
+
+.title_big {
+    font-size: 3.5rem;
+    font-weight: 800;
+    line-height: 1.2;
+}
+
+.title_role {
+    font-size: 2rem;
+    color: brown;
+    line-height: 1.2;
+}
+
+.title_para_head {
+    margin-top: 20px;
+}
+
+.intro_button {
+    padding-top: 2rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.intro_button__skill {
+    margin: auto;
+    width: 9rem;
+}
+
+.intro_button__event {
+    margin: auto;
+    width: 9rem;
+}
+
+.recentCertBG {
+    height: auto;
+    background: url(/src/assets/images/recent-cert-bg.png);
+    background-size: cover;
+}
+
+.cert_list {
+    height: auto;
+    margin: 5px;
+}
+
+.recent_cert_title {
+    font-size: 2.5rem;
+    font-weight: 700;
+    text-align: center;
+}
+
+.cert_para {
+    font-size: 1rem;
+    font-weight: 100;
+}
