@@ -1,4 +1,5 @@
 .myBG {
+    opacity: 1.8;
     height: 100vh;
     background: url(/src/assets/images/photo-bg-lite.png);
     background-size: cover;
