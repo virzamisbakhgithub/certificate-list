@@ -1,6 +1,6 @@
 .myBG {
     height: 100vh;
-    background: url(/src/assets/images/photo-bg.png);
+    background: url(/src/assets/images/photo-bg-lite.png);
     background-size: cover;
 }
 
@@ -58,7 +58,6 @@
     width: 6rem;
     background-color: brown !important;
     border-color: #D4AF37 !important;
-    /* cursor: pointer; */
 }
 
 .btn-intro-content:hover {
@@ -79,7 +78,7 @@
 }
 
 .recent_cert_title {
-    margin-top: 2rem;
+    padding-top: 2rem;
     font-size: 2.5rem;
     font-weight: 700;
     text-align: center;
@@ -96,6 +95,14 @@
 }
 
 .btn-cert:hover {
-    /* opacity: 0.8; */
     color: brown !important;
 }
+
+@media only screen and (min-width: 400px) {
+
+.myBG {
+    background-image: url(/src/assets/images/photo-bg.png);
+}
+
+}
+
