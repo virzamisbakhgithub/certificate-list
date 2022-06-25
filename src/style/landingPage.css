@@ -1,7 +1,7 @@
 .myBG {
     opacity: 1.8;
     height: 100vh;
-    background: url(/src/assets/images/photo-bg-lite3.png);
+    background: url(/src/assets/images/photo-bg-lite.png);
     background-size: cover;
 }
 
@@ -41,12 +41,13 @@
 }
 
 .title_para_head {
-    -webkit-text-stroke: 0.1rem #000000;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    -webkit-text-stroke: 0.08rem #D4AF37;
     margin-top: 20px;
 }
 
 .title_para {
-    -webkit-text-stroke: 0.1rem #000000;
+    -webkit-text-stroke: 0.08rem #D4AF37;
 }
 
 .btn-intro {
@@ -109,7 +110,7 @@
 @media only screen and (min-width: 400px) {
 
 .myBG {
-    background-image: url(/src/assets/images/photo-bg2.png);
+    background-image: url(/src/assets/images/photo-bg.png);
 }
 
 .title_para_head {
