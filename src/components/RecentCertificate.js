@@ -40,7 +40,7 @@ const RecentCertificate = () => {
                 Mid-level certification in cloud computing technology with output target as solutions architect that refers to AWS' international competency standards.
                 </Card.Text>
                 <a href="https://www.dicoding.com/certificates/1RXYM4D49XVM" target="_blank">
-                  <Button>Check Credentials</Button>
+                  <Button className="btn-cert">Check Credentials</Button>
                 </a>
             </Card.Body>
           </div>
@@ -56,7 +56,7 @@ const RecentCertificate = () => {
                 Fundamental certification of C programming language material with online IDE using Glot.io and Replit.
                 </Card.Text>
                 <a href="https://www.dicoding.com/certificates/L4PQMDL82ZO1" target="_blank">
-                  <Button>Check Credentials</Button>
+                  <Button className="btn-cert">Check Credentials</Button>
                 </a>
             </Card.Body>
           </div>
@@ -72,7 +72,7 @@ const RecentCertificate = () => {
                 Fundamental certification of C programming language material with IDE IntelliJ IDEA and online IDE using DartPad.
                 </Card.Text>
                 <a href="https://www.dicoding.com/certificates/L4PQ3MJ04PO1" target="_blank">
-                  <Button>Check Credentials</Button>
+                  <Button className="btn-cert">Check Credentials</Button>
                 </a>
             </Card.Body>
           </div>
@@ -88,7 +88,7 @@ const RecentCertificate = () => {
                   Some quick example text to build on the card title and make up the bulk of
                   the card's content.
                 </Card.Text>
-              <Button>Check Credentials</Button>
+              <Button className="btn-cert">Check Credentials</Button>
             </Card.Body>
           </div>
           </Card>
@@ -103,7 +103,7 @@ const RecentCertificate = () => {
                   Some quick example text to build on the card title and make up the bulk of
                   the card's content.
                 </Card.Text>
-              <Button>Check Credentials</Button>
+              <Button className="btn-cert">Check Credentials</Button>
             </Card.Body>
           </div>
           </Card>
@@ -118,7 +118,7 @@ const RecentCertificate = () => {
                   Some quick example text to build on the card title and make up the bulk of
                   the card's content.
                 </Card.Text>
-              <Button>Check Credentials</Button>
+              <Button className="btn-cert">Check Credentials</Button>
             </Card.Body>
           </div>
           </Card>
@@ -133,7 +133,7 @@ const RecentCertificate = () => {
                   Some quick example text to build on the card title and make up the bulk of
                   the card's content.
                 </Card.Text>
-              <Button>Check Credentials</Button>
+              <Button className="btn-cert">Check Credentials</Button>
             </Card.Body>
           </div>
           </Card>
@@ -148,7 +148,7 @@ const RecentCertificate = () => {
                   Some quick example text to build on the card title and make up the bulk of
                   the card's content.
                 </Card.Text>
-              <Button>Check Credentials</Button>
+              <Button className="btn-cert">Check Credentials</Button>
             </Card.Body>
           </div>
           </Card>
