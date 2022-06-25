@@ -5,7 +5,7 @@
 }
 
 .intro {
-    height: 700px;
+    height: 38rem;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -49,20 +49,19 @@
 }
 
 .btn-intro-layer {
-    margin-left: 2rem;
-    margin-right: 2rem;
-    width: 9rem;
+    width: 6rem;
+    margin-left: 1rem;
+    margin-right: 1rem;
 }
 
 .btn-intro-content {
-    width: 9rem;
+    width: 6rem;
     background-color: brown !important;
     border-color: #D4AF37 !important;
     /* cursor: pointer; */
 }
 
 .btn-intro-content:hover {
-    width: 9rem;
     background-color: #D4AF37 !important;
     color: brown !important;
     font-weight: bold;
@@ -80,6 +79,7 @@
 }
 
 .recent_cert_title {
+    margin-top: 2rem;
     font-size: 2.5rem;
     font-weight: 700;
     text-align: center;
