@@ -40,14 +40,21 @@
     text-shadow: 0 0 1rem #000000;
 }
 
+.para-group {
+    background: url(/src/assets/images/para-bg.png);
+    background-size: cover;
+}
+
 .title_para_head {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     -webkit-text-stroke: 0.08rem #D4AF37;
     margin-top: 20px;
+    margin-left: 0.5rem;
 }
 
 .title_para {
     -webkit-text-stroke: 0.08rem #D4AF37;
+    margin-left: 0.5rem;
 }
 
 .btn-intro {
@@ -122,5 +129,8 @@
     -webkit-text-stroke: unset;
 }
 
+.para-group {
+    background: unset;
+}
 }
 
