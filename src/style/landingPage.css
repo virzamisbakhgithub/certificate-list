@@ -1,5 +1,4 @@
 .myBG {
-    opacity: 1.8;
     height: 100vh;
     background: url(/src/assets/images/photo-bg-lite.png);
     background-size: cover;
@@ -35,9 +34,9 @@
 
 .title_role {
     font-size: 2rem;
-    color: brown;
+    color: #E62129;
     line-height: 1.2;
-    text-shadow: 0 0 1rem #000000;
+    text-shadow: 0.5rem 0.5rem 1rem #000000;
 }
 
 .para-group {
