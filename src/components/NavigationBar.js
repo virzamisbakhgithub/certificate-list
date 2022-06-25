@@ -5,7 +5,7 @@ const NavigationBar = () => {
         <div>
             <Navbar variant="light">
                 <Container>
-                    <Navbar.Brand>My Certificate List</Navbar.Brand>
+                    <Navbar.Brand className="navbar_title">My Certificate List</Navbar.Brand>
                     <Nav>
                         <Nav.Link className="navbar_menu">Recent Certificate</Nav.Link>
                         <Nav.Link className="navbar_menu">About Me</Nav.Link>

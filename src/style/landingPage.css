@@ -11,6 +11,11 @@
     align-items: center;
 }
 
+.navbar_title {
+    font-weight: bold;
+    color: #D4AF37 !important;
+}
+
 .navbar_menu {
     font-size: 0.8rem;
 }
@@ -36,21 +41,31 @@
     margin-top: 20px;
 }
 
-.intro_button {
+.btn-intro {
     padding-top: 2rem;
     display: flex;
     justify-content: center;
     align-items: center;
 }
 
-.intro_button__skill {
-    margin: auto;
+.btn-intro-layer {
+    margin-left: 2rem;
+    margin-right: 2rem;
     width: 9rem;
 }
 
-.intro_button__event {
-    margin: auto;
+.btn-intro-content {
     width: 9rem;
+    background-color: brown !important;
+    border-color: #D4AF37 !important;
+    /* cursor: pointer; */
+}
+
+.btn-intro-content:hover {
+    width: 9rem;
+    background-color: #D4AF37 !important;
+    color: brown !important;
+    font-weight: bold;
 }
 
 .recentCertBG {
@@ -73,4 +88,14 @@
 .cert_para {
     font-size: 1rem;
     font-weight: 100;
+}
+
+.btn-cert {
+    background-color: #D4AF37 !important;
+    border-color: #D4AF37 !important;
+}
+
+.btn-cert:hover {
+    /* opacity: 0.8; */
+    color: brown !important;
 }

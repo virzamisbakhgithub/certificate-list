@@ -24,7 +24,7 @@ const RecentCertificate = () => {
                 Fundamental certification in cloud computing with reference to AWS' international competency standards.
                 </Card.Text>
                 <a href="https://www.dicoding.com/certificates/JMZV2VJEQZN9" target="_blank">
-                  <Button>Check Credentials</Button>
+                  <Button className="btn-cert">Check Credentials</Button>
                 </a>
             </Card.Body>
           </div>

@@ -18,9 +18,13 @@ const Intro = () => {
                         <Container>
                             <Row>
                                 <Col>
-                                    <div className="intro_button">
-                                    <Button className="intro_button__skill">Linkedin Profile</Button>
-                                    <Button className="intro_button__event">Contact Me</Button>
+                                    <div className="btn-intro">
+                                    <a className="btn-intro-layer" href="https://www.linkedin.com/in/virza-misbakh-khoirudin-05609b1ba" target="_blank">
+                                        <Button className="btn-intro-content">Linkedin Profile</Button>
+                                    </a>
+                                    <a className="btn-intro-layer" href="https://wa.me/6288238069072" target="_blank">
+                                        <Button className="btn-intro-content">Contact Me</Button>
+                                    </a>
                                     </div>
                                 </Col>
                             </Row>
