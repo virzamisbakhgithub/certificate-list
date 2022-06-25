@@ -1,7 +1,7 @@
 .myBG {
     opacity: 1.8;
     height: 100vh;
-    background: url(/src/assets/images/photo-bg-lite.png);
+    background: url(/src/assets/images/photo-bg-lite3.png);
     background-size: cover;
 }
 
@@ -30,16 +30,23 @@
     font-size: 3.5rem;
     font-weight: 800;
     line-height: 1.2;
+    text-shadow: 0 0 2rem brown;
 }
 
 .title_role {
     font-size: 2rem;
     color: brown;
     line-height: 1.2;
+    text-shadow: 0 0 1rem #000000;
 }
 
 .title_para_head {
+    -webkit-text-stroke: 0.1rem #000000;
     margin-top: 20px;
+}
+
+.title_para {
+    -webkit-text-stroke: 0.1rem #000000;
 }
 
 .btn-intro {
@@ -102,7 +109,16 @@
 @media only screen and (min-width: 400px) {
 
 .myBG {
-    background-image: url(/src/assets/images/photo-bg.png);
+    background-image: url(/src/assets/images/photo-bg2.png);
+}
+
+.title_para_head {
+    -webkit-text-stroke: unset;
+    margin-top: 20px;
+}
+
+.title_para {
+    -webkit-text-stroke: unset;
 }
 
 }
