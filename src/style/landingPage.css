@@ -133,3 +133,6 @@
 }
 }
 
+* {
+  print-color-adjust: exact;
+}
