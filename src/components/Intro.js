@@ -21,10 +21,10 @@ const Intro = () => {
                             <Row>
                                 <Col>
                                     <div className="btn-intro">
-                                    <a className="btn-intro-layer" href="https://www.linkedin.com/in/virza-misbakh-khoirudin-05609b1ba" target="_blank">
+                                    <a className="btn-intro-layer" href="https://www.linkedin.com/in/virza-misbakh-khoirudin-05609b1ba" target="_blank" rel="noopener noreferrer">
                                         <Button className="btn-intro-content">Linkedin</Button>
                                     </a>
-                                    <a className="btn-intro-layer" href="https://wa.me/6288238069072" target="_blank">
+                                    <a className="btn-intro-layer" href="https://wa.me/6288238069072" target="_blank" rel="noopener noreferrer">
                                         <Button className="btn-intro-content">Contact</Button>
                                     </a>
                                     </div>
