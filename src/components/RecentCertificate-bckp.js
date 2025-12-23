@@ -23,16 +23,7 @@ const RecentCertificate = () => {
         <Row>
           <Col md={6} className="cert_wrapper">
           <Card className="cert_list">
-              {/* IMAGE OPTIMIZED */}
-              <Image
-                src="/cert/Dicoding Cloud Practitioner Essentials AWS.webp"
-                alt="AWS Beginner Certificate"
-                loading="lazy"
-                decoding="async"
-                width={600}
-                height={400}
-                className="img-fluid"
-              />
+          <Image src={dicodingCert1} />
           <div className="bg-dark text-white">
           <Card.Body className="text-center cert_para">
               <Card.Title>AWS Beginner</Card.Title>
