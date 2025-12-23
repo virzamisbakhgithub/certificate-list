@@ -8,13 +8,13 @@ const Intro = () => {
                     <Col>
                         <div className="title">Hello,</div>
                         <div className="title_big">I'm Virza Misbakh</div>
-                        <div className="title_role">Software Engineer</div>
+                        <div className="title_role">DevOps Engineer</div>
                         <div className="title_role">From Indonesia</div>
                         <div className="para-group">
                             <div className="title_para_head">I am a person who loves all things about</div>
                             <div className="title_para">Computer Science and Artificial Intelligence.</div>
-                            <div className="title_para">Have qualifications in C#, Python and</div>
-                            <div className="title_para">Javascript programming languages.</div>
+                            <div className="title_para">Have qualifications in Cloud Infrastructure and</div>
+                            <div className="title_para">Automation Pipeline Development</div>
                         </div>
 
                         <Container>
