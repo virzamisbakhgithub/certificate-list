@@ -25,12 +25,30 @@
     line-height: 1.2;
 }
 
-.title_big {
+/* .title_big {
     font-size: 3.5rem;
     font-weight: 800;
     line-height: 1.2;
     text-shadow: 0 0 2rem brown;
+} */
+.title_big {
+  font-size: 3.5rem;
+  font-weight: 700;
+  line-height: 1.2;
 }
+
+.title-im {
+  color: #000;      /* hitam */
+}
+
+.title-name {
+  color: #f4c430;   /* kuning */
+}
+
+.title-last {
+  color: #e10600;   /* merah */
+}
+
 
 .title_role {
     font-size: 2rem;

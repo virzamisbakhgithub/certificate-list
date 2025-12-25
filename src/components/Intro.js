@@ -7,7 +7,12 @@ const Intro = () => {
                 <Row>
                     <Col>
                         <div className="title">Hello,</div>
-                        <div className="title_big">I'm Virza Misbakh</div>
+                        {/* <div className="title_big">I'm Virza Misbakh</div> */}
+                        <div className="title_big">
+                        <span className="title-im">I'm</span>{' '}
+                        <span className="title-name">Virza</span>{' '}
+                        <span className="title-last">Misbakh</span>
+                        </div>
                         <div className="title_role">DevOps Engineer</div>
                         <div className="title_role">From Indonesia</div>
                         <div className="para-group">

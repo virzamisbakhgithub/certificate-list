@@ -21,7 +21,7 @@ const RecentCertificate = () => {
       <div className="recent_cert_title"> Course Certificate
       <Container className="mt-3">
         <Row>
-          <Col md={6} className="cert_wrapper">
+          {/* <Col md={6} className="cert_wrapper">
           <Card className="cert_list">
           <Image src={dicodingCert1} />
           <div className="bg-dark text-white">
@@ -52,8 +52,8 @@ const RecentCertificate = () => {
             </Card.Body>
           </div>
           </Card>
-          </Col>
-          <Col md={6} className="cert_wrapper">
+          </Col> */}
+          {/* <Col md={6} className="cert_wrapper">
           <Card className="cert_list">
           <Image src={dicodingCert3} />
           <div className="bg-dark text-white">
@@ -68,8 +68,8 @@ const RecentCertificate = () => {
             </Card.Body>
           </div>
           </Card>
-          </Col>
-          <Col md={6} className="cert_wrapper">
+          </Col> */}
+          {/* <Col md={6} className="cert_wrapper">
           <Card className="cert_list">
           <Image src={dicodingCert4} />
           <div className="bg-dark text-white">
@@ -84,8 +84,8 @@ const RecentCertificate = () => {
             </Card.Body>
           </div>
           </Card>
-          </Col>
-          <Col md={6} className="cert_wrapper">
+          </Col> */}
+          {/* <Col md={6} className="cert_wrapper">
           <Card className="cert_list">
           <Image src={ciscoCert1} />
           <div className="bg-dark text-white">
@@ -98,8 +98,8 @@ const RecentCertificate = () => {
             </Card.Body>
           </div>
           </Card>
-          </Col>
-          <Col md={6} className="cert_wrapper">
+          </Col> */}
+          {/* <Col md={6} className="cert_wrapper">
           <Card className="cert_list">
           <Image src={alibabaCloudCert1} />
           <div className="bg-dark text-white">
@@ -112,8 +112,8 @@ const RecentCertificate = () => {
             </Card.Body>
           </div>
           </Card>
-          </Col>
-          <Col md={6} className="cert_wrapper">
+          </Col> */}
+          {/* <Col md={6} className="cert_wrapper">
           <Card className="cert_list">
           <Image src={kodekloudCert1} />
           <div className="bg-dark text-white">
@@ -126,8 +126,8 @@ const RecentCertificate = () => {
             </Card.Body>
           </div>
           </Card>
-          </Col>
-          <Col md={6} className="cert_wrapper">
+          </Col> */}
+          {/* <Col md={6} className="cert_wrapper">
           <Card className="cert_list">
           <Image src={kodekloudCert2} />
           <div className="bg-dark text-white">
@@ -140,8 +140,8 @@ const RecentCertificate = () => {
             </Card.Body>
           </div>
           </Card>
-          </Col>
-          <Col md={6} className="cert_wrapper">
+          </Col> */}
+          {/* <Col md={6} className="cert_wrapper">
           <Card className="cert_list">
           <Image src={kodekloudCert3} />
           <div className="bg-dark text-white">
@@ -154,8 +154,8 @@ const RecentCertificate = () => {
             </Card.Body>
           </div>
           </Card>
-          </Col>
-          <Col md={6} className="cert_wrapper">
+          </Col> */}
+          {/* <Col md={6} className="cert_wrapper">
           <Card className="cert_list">
           <Image src={kodekloudCert4} />
           <div className="bg-dark text-white">
@@ -168,8 +168,8 @@ const RecentCertificate = () => {
             </Card.Body>
           </div>
           </Card>
-          </Col>
-          <Col md={6} className="cert_wrapper">
+          </Col> */}
+          {/* <Col md={6} className="cert_wrapper">
           <Card className="cert_list">
           <Image src={kodekloudCert5} />
           <div className="bg-dark text-white">
@@ -182,8 +182,8 @@ const RecentCertificate = () => {
             </Card.Body>
           </div>
           </Card>
-          </Col>
-          <Col md={6} className="cert_wrapper">
+          </Col> */}
+          {/* <Col md={6} className="cert_wrapper">
           <Card className="cert_list">
           <Image src={digitalentCert1} />
           <div className="bg-dark text-white">
@@ -196,8 +196,8 @@ const RecentCertificate = () => {
             </Card.Body>
           </div>
           </Card>
-          </Col>
-          <Col md={6} className="cert_wrapper">
+          </Col> */}
+          {/* <Col md={6} className="cert_wrapper">
           <Card className="cert_list">
           <Image src={gcpCert1} />
           <div className="bg-dark text-white">
@@ -210,8 +210,8 @@ const RecentCertificate = () => {
             </Card.Body>
           </div>
           </Card>
-          </Col>
-          <Col md={6} className="cert_wrapper">
+          </Col> */}
+          {/* <Col md={6} className="cert_wrapper">
           <Card className="cert_list">
           <Image src={brainmaticsCert1} />
           <div className="bg-dark text-white">
@@ -224,8 +224,8 @@ const RecentCertificate = () => {
             </Card.Body>
           </div>
           </Card>
-          </Col>
-          <Col md={6} className="cert_wrapper">
+          </Col> */}
+          {/* <Col md={6} className="cert_wrapper">
           <Card className="cert_list">
           <Image src={brainmaticsCert2} />
           <div className="bg-dark text-white">
@@ -238,7 +238,7 @@ const RecentCertificate = () => {
             </Card.Body>
           </div>
           </Card>
-          </Col>
+          </Col> */}
           <Col md={6} className="cert_wrapper">
           <Card className="cert_list">
           <Image src={wallstreetCert} />
