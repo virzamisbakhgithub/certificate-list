@@ -1,5 +1,5 @@
 {
-  "name": "certificate-list-worker",
+  "name": "profile",
   "compatibility_date": "2025-12-23",
   "assets": {
     "directory": "./build"
